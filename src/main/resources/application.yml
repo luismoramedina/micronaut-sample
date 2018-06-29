@@ -1,0 +1,4 @@
+micronaut:
+  server.port: 8888
+  application:
+    name: micronaut-hello
