@@ -1,0 +1,10 @@
+= Micronaut sample
+
+== Creation
+
+mn create-app micronaut-hello
+
+== Build and Run
+
+./gradlew build
+./gradlew run

@@ -7,4 +7,6 @@ import io.micronaut.http.client.Client;
 interface HelloClient {
     @Get("/{name}")
     String hello(String name);
+    @Get("/")
+    String hello();
 }
